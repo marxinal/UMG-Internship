@@ -15,5 +15,21 @@ The primary aim of this project is to investigate the role of music video engage
 
 The secondary goal of this project is to examine the role, importance, and explanatory value of each of the variables used to predict the difference in streaming before and after the video release. This was done by investigating different aspects of both video (YouTube) and track (Spotify) data. 
 
+## Tools
+- R
+- SQL
+- BigQuery
+- Shiny Dashboard
+
+## Timesheet
+
+<img width="683" alt="umg_time_sheet" src="https://user-images.githubusercontent.com/94328819/221549877-d3702749-fc49-4bee-b50a-84762a466b56.png">
+
+## Some Plots from the Final Dashboard
+
+<img width="399" alt="popularity" src="https://user-images.githubusercontent.com/94328819/221550204-fda98cbf-45c9-4a07-8159-b2066d638959.png">
+<img width="494" alt="stream_diff" src="https://user-images.githubusercontent.com/94328819/221550224-d6a9a937-0011-417e-83ea-d4ec5fc0b1b4.png">
+<img width="377" alt="genre_dist" src="https://user-images.githubusercontent.com/94328819/221550243-610a86c0-c81c-42d1-8439-d27f32ed1b9c.png">
+
 
 Unfortunately, I am not allowed to disclose any further information from this project.
